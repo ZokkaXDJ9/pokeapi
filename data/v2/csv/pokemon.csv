@@ -1323,6 +1323,8 @@ id,identifier,species_id,height,weight,base_experience,order,is_default
 10519,iron-valiant-mid,1006,14,350,295,993,1
 10520,giratina-small,487,69,6500,340,601,1
 10521,giratina-mid,487,69,6500,340,601,1
+10522,iron-bundle-small,991,6,110,285,992,1
+10523,iron-bundle-mid,991,6,110,285,992,1
 20002,mystic-frill,20002,17,770,,,0
 20004,sacred-iron,20004,7,233,,,0
 20005,flaming-spears,20005,16,381,,,0
